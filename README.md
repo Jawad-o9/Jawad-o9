@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jawad-o9
-- 👀 I’m interested in Web Development and Networking.
-- 🌱 I’m currently learning JavaScript and Java.
-- 💞️ I’m looking to collaborate on simple and basic projects for now, as im fairly new here.
+- 👀 I’m interested in Web Development, Networking & Cloud.
+- 🌱 I’m currently learning JavaScript.
 - 📫 How to reach me Email:Jawadahmed2@proton.me
 
 <!--
